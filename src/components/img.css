@@ -1,0 +1,22 @@
+img {
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+img:hover {
+  filter: drop-shadow(0 0 1em #cc0505aa);
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  margin: 30px;
+  padding: 20px;
+  background-color: saddlebrown;
+}
+
+h1:hover {
+  color: black;
+}
+
