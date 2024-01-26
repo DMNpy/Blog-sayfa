@@ -11,7 +11,7 @@ function Iletisim() {
                 <a href="https://github.com/DMNpy" target="_blank">Github</a>
             </li>
             <li>
-                <a href="https://www.linkedin.com/in/ozcan-duman-558a282a5/" target="_blank">Linkedin</a>
+                <a href="" target="_blank">Linkedin</a>
             </li>
             <li>
                 <a href="#">Discord:dmn1337</a>
