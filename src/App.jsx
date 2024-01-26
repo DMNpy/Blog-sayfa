@@ -11,7 +11,7 @@ import Becerilerim from './components/becerilerim';
 
 function App() {
   const [currentPage, setCurrentPage] = useState("home");
-  const [isim] = useState("Özcan Duman");
+  const [isim] = useState("DMN");
 
   const handlePageChange = (page) => {
     setCurrentPage(page);
